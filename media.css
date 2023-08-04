@@ -1,0 +1,171 @@
+@media (max-width: 425px){
+    .nav--list--header, .heading--title--img{
+        display: none;
+    }
+    .services--case--info--media{
+        margin-top: 27px;
+        align-items: end;
+        justify-content: space-between;
+        display: flex;
+    }
+    .case--form{
+    padding: 30px;
+    }
+    .form--input--cace input, #Message{
+        /* width: 560px; */
+        width: 100%;}
+    #hidden{
+        margin: 0px;
+        display: block;
+    }
+    .heppen{
+        margin-bottom: 60px;
+    }
+    .burger, .heading--title--img--media{
+        display: block;
+    }
+    .heading--title{
+        flex-direction: column;
+        gap: 20px;
+        align-items: center;
+    }
+    .btn--dark{
+        padding: 20px 23px;
+    }
+    .heading--title--text{
+        display: grid;
+        gap: 20px;
+    }
+    br{
+        display: none;
+    }
+    .ul--list--header{
+        flex-direction: column;
+        row-gap: 20px;
+        text-align: center;
+    }
+    .text--style--18, .text--style--18--withe{
+        font-size: 16px;
+    }
+    .text--style--40{
+        font-size: 36px;
+    }
+    .text--style--30{
+        font-size: 26px;
+    }
+    .text--style--30--media{
+        font-size: 18px;
+    }
+    .h1--global{
+        font-size: 30px;
+    }
+    .hidden--media--card{
+        display: none;
+    }
+    .swiper--slaid--studies{
+        display: flex;
+    }
+    .services--title--case{
+        flex-direction: column;
+        gap: 40px;
+    }
+    .heppen--img, .card--hr, .hidden--logo{
+        display: none;
+    }
+    .working--process--case, .team--case{
+        margin: 40px 0px 60px;
+    }
+    .services--case--info{
+        display: block;
+    }
+    .services--case {
+        padding: 50px;
+        width: auto;
+        border-radius: 45px;
+        border: 1px solid #191A23;
+        box-shadow: 0px 5px 0px 0px #191A23;
+    }
+    .studies--cadr--case{
+        margin: 40px 0px 60px;
+        background-color: #3d3d3d00;
+        padding: 0px;
+    }
+    .link--services{
+        margin-top: 27px;
+    }
+    .studies--cadr{
+        display: flex;
+        padding: 42px 50px;
+        text-align: start;
+        margin: 0px 10px;
+        width: 350px;
+        height: 252px;
+        border-radius: 45px;
+        background:  #191A23;
+    }
+    .working--process--card {
+        margin-bottom: 20px;
+        padding: 30px;
+    }
+    .team--case--card{
+        flex-direction: column;
+        gap: 40px;
+    }
+    .team--card{
+        width: auto;
+    }
+    .team--button{
+        text-align: center;
+    }
+    .slaider--case--text {
+        padding: 30px;
+        width: 330px;
+    }
+    .slaider--button {
+        column-gap: 70px;
+    }
+    .testimonials--case--slaider{
+        width: 330px;
+    }
+    .container--slaider{
+        margin: 40px 0px 60px;
+        padding: 0px 0px 30px;
+    }
+    .glav--text--heading{
+        font-size: 43px;
+    }
+    .sec--logotypes{
+        margin-bottom: 60px;
+    }
+    .list--logotypes img{
+        margin: 0px 10px;
+    }
+    .footer{
+        margin-top: 60px;
+        padding: 40px 0px;
+    }
+    .footer--bottom{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .footer--mid{
+        flex-direction: column;
+        text-align: center;
+        gap: 20px;
+    }
+    .sec--footer{
+        background-color: #191A23;
+    }
+}
+@media (max-width: 389px){
+    .testimonials--case--slaider{
+        width: 280px;
+    }
+    .slaider--case--text {
+        padding: 30px;
+        width: 280px;
+    }
+    .slaider--button {
+        column-gap: 50px;
+    }
+}
